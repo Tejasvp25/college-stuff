@@ -1,3 +1,4 @@
 LEX/*.yy.c
 LEX/*.exe
+LEX/*.out
 DS/*.class
